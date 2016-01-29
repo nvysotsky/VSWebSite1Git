@@ -1,0 +1,40 @@
+﻿body {
+    background-color:#331a00;
+    height:2000px;
+}
+
+.box {
+    width:150px;
+    height:150px;
+}
+
+#green{
+    background-color:forestgreen;  
+    position:absolute;
+    left:50px;
+    top:50px;   
+}
+
+#blue {
+    margin-top:10px;
+    background-color:blue;
+   
+    
+}
+h1, p {
+    color:whitesmoke;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:normal;
+}
+.container {
+    background:rgba(0,0,0,0.4);
+    height:250px;
+    width:250px;
+    border-color:blue;
+    border-style:solid;
+    border-width:2px;
+    margin-top:150px;
+    margin-left:400px;
+    position:absolute;  
+  
+}
